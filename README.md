@@ -30,4 +30,6 @@
 
 ## Minio
 
-СУЛТАН ПИЛИ СЮДА что та
+Имя пользователя: bimbimbambam
+
+Пароль: bambambimbim
