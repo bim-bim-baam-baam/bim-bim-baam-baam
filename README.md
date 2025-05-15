@@ -4,19 +4,20 @@
 
 Точно будет:
 
-nginx: 80
-postgres: 8003
-minio-api: 8005
-minio-web-interface: 8006
-frontend-flutter: 8007
-auth-service: 8008
-user-service: 8009
-domain-service: 8010
-media-service: 8011
+1. nginx: 80
+2. postgres: 8003
+3. minio-api: 8005
+4. minio-web-interface: 8006
+5. frontend-flutter: 8007
+6. auth-service: 8008
+7. user-service: 8009
+8. domain-service: 8010
+9. media-service: 8011
 
 
 Не точно:
-kafka: 8001
-zookeeper: 8002
-redis: 8004
-email-service: 8012
+
+10. kafka: 8001
+11. zookeeper: 8002
+12. redis: 8004
+13. email-service: 8012
