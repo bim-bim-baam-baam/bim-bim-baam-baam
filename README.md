@@ -6,8 +6,8 @@
 
 1. nginx: 80
 2. postgres: 8003
-3. minio-api: 9090
-4. minio-web-interface: 9000
+3. minio-api: 9000
+4. minio-web-interface: 9090
 5. frontend-flutter: 8007
 6. auth-service: 8008
 7. user-service: 8009
