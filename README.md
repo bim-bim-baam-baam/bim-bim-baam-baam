@@ -1,6 +1,6 @@
 # bim-bim-baam-baam
 
-Порты снаружи контейнера:
+## Порты снаружи контейнера:
 
 Точно будет:
 
@@ -21,3 +21,12 @@
 11. zookeeper: 8002
 12. redis: 8004
 13. email-service: 8012
+
+## POSTGRES
+
+Имя пользователя: bimbimbambam
+Пароль: bambambimbim
+
+## Minio
+
+СУЛТАН ПИЛИ СЮДА что та
