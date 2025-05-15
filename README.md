@@ -1,5 +1,19 @@
 # bim-bim-baam-baam
 
+## Порты внутри контейнера:
+
+ПОМОГИТЕ ТУТ ТОЖЕ НАДО ВСЕ ПРОСТАВИТЬ тут возможно чтото неправильно
+
+1. nginx: 80
+2. postgres: 5432
+3. minio-api: 9000
+4. minio-web-interface: 9001
+5. frontend-flutter: 
+6. auth-service: 8000
+7. user-service: 8000
+8. domain-service: 8000
+9. media-service: 8000
+
 ## Порты снаружи контейнера:
 
 Точно будет:
