@@ -16,7 +16,8 @@ services:
       - app_net
 
   postgres:
-    image: postgres:15
+    build:
+      context: ./postgres
     environment:
       POSTGRES_USER: bimbimbambam
       POSTGRES_PASSWORD: bambambimbim
