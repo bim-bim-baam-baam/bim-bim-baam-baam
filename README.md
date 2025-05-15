@@ -25,6 +25,7 @@
 ## POSTGRES
 
 Имя пользователя: bimbimbambam
+
 Пароль: bambambimbim
 
 ## Minio
