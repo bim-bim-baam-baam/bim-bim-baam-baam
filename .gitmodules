@@ -1,0 +1,15 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/bim-bim-baam-baam/auth-service
+[submodule "media-service"]
+	path = media-service
+	url = https://github.com/bim-bim-baam-baam/media-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/bim-bim-baam-baam/user-service
+[submodule "flutter-frontend"]
+	path = flutter-frontend
+	url = https://github.com/bim-bim-baam-baam/flutter-frontend
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/bim-bim-baam-baam/ml-service
