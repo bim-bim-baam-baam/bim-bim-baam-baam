@@ -1,5 +1,7 @@
 # bim-bim-baam-baam
 
+`git clone --recurse-submodules https://github.com/bim-bim-baam-baam/bim-bim-baam-baam`
+
 ## Порты внутри контейнера:
 
 ПОМОГИТЕ ТУТ ТОЖЕ НАДО ВСЕ ПРОСТАВИТЬ тут возможно чтото неправильно
