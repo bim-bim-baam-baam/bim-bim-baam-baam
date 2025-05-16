@@ -40,10 +40,10 @@
 
 Имя пользователя: bimbimbambam
 
-Пароль: bambambimbim
+Пароль: bimbimbambam
 
 ## Minio
 
 Имя пользователя: bimbimbambam
 
-Пароль: bambambimbim
+Пароль: bimbimbambam
